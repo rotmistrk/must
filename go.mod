@@ -1,3 +1,3 @@
-module github.com/rotmistrk/go/must
+module github.com/rotmistrk/must
 
 go 1.21
